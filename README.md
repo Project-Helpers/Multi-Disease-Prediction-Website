@@ -1,7 +1,7 @@
 ### How to run the project :
 #### Install python and its libraries NumPy, Pandas and Sklearn along with Django. 
 ```
-pip install django sklearn
+pip install scikit-learn
 ```
 #### Run following commands
 ```
